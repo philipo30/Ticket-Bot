@@ -1,2 +1,2 @@
 # Ticket-Bot
-Simple Ticket bot
+Fully open source and customziable discord Ticket bot
